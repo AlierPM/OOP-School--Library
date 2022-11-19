@@ -1,6 +1,6 @@
 require_relative './nameable'
 require_relative './rental'
-class Person < nameable
+class Person < Nameable
   attr_reader :id
   attr_accessor :name, :age, :rentals
 
@@ -25,7 +25,7 @@ class Person < nameable
     Rental.new(date, book, self)
   end
 
-  private :of_age?
+  private
 
   def of_age?
     @age >= 18
