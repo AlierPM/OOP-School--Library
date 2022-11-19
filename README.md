@@ -36,21 +36,6 @@ $git clone https://github.com/AlierPM/OOP-School--Library.git
 - Start customizing the project so it fits your personal preferences and needs.
 - Enjoy your new professional **OOP-School--Library** application!
 
-### Install Dependencies
-
-To check for linters, use the files provided by [Microverse Ruby-Linters](https://github.com/microverseinc/linters-config/tree/master/ruby). A GitHub action is also set to run during pull request.
-
-```
-$ npm install
-
-```
-
-### Run tests
-
-```
-$ npm test
-
-```
 
 ## Authors
 
