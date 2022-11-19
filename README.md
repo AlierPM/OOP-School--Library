@@ -1,6 +1,6 @@
 # OOP school library
 
-> OOP school library is a Ruby project that anable librarian to record what books are in the library and who borrows them.
+> OOP school library is a Ruby project that enable a librarian to record what books are in the library and who borrows them.
 
 ## Built With ⚙️
 
@@ -27,7 +27,8 @@ To get a local copy up and running follow these simple example steps.
 - Open the **Command Prompt (CMD)** in the current directory (Microverse Folder).
 - Run the following command:
 
-```$git clone https://github.com/AlierPM/OOP-School--Library.git
+```
+$git clone https://github.com/AlierPM/OOP-School--Library.git
 
 ```
 
@@ -39,13 +40,15 @@ To get a local copy up and running follow these simple example steps.
 
 To check for linters, use the files provided by [Microverse Ruby-Linters](https://github.com/microverseinc/linters-config/tree/master/ruby). A GitHub action is also set to run during pull request.
 
-```$ npm install
+```
+$ npm install
 
 ```
 
 ### Run tests
 
-```$ npm test
+```
+$ npm test
 
 ```
 
